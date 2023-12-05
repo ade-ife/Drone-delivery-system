@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository:
 
 ```bash
-git clone [repository_url]
+git clone [[repository_url]](https://github.com/ade-ife/Drone-delivery-system.git)
 ```
 
 Clone the repository
