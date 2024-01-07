@@ -82,6 +82,7 @@ Payload:
 `GET /api/drones/{droneId}/battery`
 
 The periodic task to check drones battery levels runs every 60 seconds and is saved in a text file in the root directory. The file name is drone_battery_logs.txt
+
 ## Running the tests
 Execute the following command to run the unit tests:
 
